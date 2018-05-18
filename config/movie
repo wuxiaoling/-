@@ -1,0 +1,1 @@
+{"url":"http://www.ygdy8.net/html/gndy/dyzz/list_23_%%.html","type":"json","from":"1","to":"2","charset":"gb2312","saveDir":"./move/","selector":[{"$":"$('td b a')","key_name":"aaa","attr":"href"},{"$":"$('title')","key_name":"title","attr":"null"},{"$":"$('#Zoom td a')","key_name":"url","attr":"href"}],"isPagination":1,"mode":"web"}
